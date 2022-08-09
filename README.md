@@ -13,6 +13,6 @@ Run test.py
 # Results:
 ![illustration](Features.png) \
 \
-Blue: Ground Truth\
-Red: Experimental Results
+Blue: Ground Truth \
+Red: Experimental Results \
 ![illustration](VO.png)
