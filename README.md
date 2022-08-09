@@ -11,8 +11,8 @@ http://www.cvlibs.net/download.php?file=data_odometry_poses.zip
 # Testing the code 
 Run test.py
 # Results:
-![illustration](Features.png)
-
-Blue: Ground Truth
+![illustration](Features.png) \
+\
+Blue: Ground Truth\
 Red: Experimental Results
 ![illustration](VO.png)
